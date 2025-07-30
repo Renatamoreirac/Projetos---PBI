@@ -14,7 +14,7 @@ O objetivo deste repositório é servir como um espaço de **prática e aprendiz
 ## 📌 Projetos
 
 ### 1. Gráfico de Área com Crescimento Dinâmico
-Projeto desenvolvido com base no estudo do vídeo [**Dynamic Area Chart in Power BI**](https://www.youtube.com/watch?v=jaKUStKW8PA), cujo objetivo é exibir o **crescimento cumulativo** de uma métrica entre as **datas mínima e máxima selecionadas** no relatório.
+Projeto desenvolvido com base no estudo do vídeo [**How to show Growth over Time - Native Power BI**](https://www.youtube.com/watch?v=jaKUStKW8PA), cujo objetivo é exibir o **crescimento cumulativo** de uma métrica entre as **datas mínima e máxima selecionadas** no relatório.
 
 **Tópicos abordados neste projeto:**
 - Criação de tabela calendário em **M** com detecção de data mínima e máxima da tabela fato  
